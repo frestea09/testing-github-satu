@@ -3,3 +3,4 @@ Belajar Github
 Berikut adalah resolusi yang akan didapat
 
 1. mengetahui penyimpanan online 
+2. dapat mengaplikasikan html
