@@ -1,1 +1,5 @@
-hello world
+Belajar Github 
+
+Berikut adalah resolusi yang akan didapat
+
+1. mengetahui penyimpanan online 
